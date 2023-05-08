@@ -15,3 +15,10 @@ Camera parts should be printed using PETG, since over time they could sag.
 
 # Brim, raft, supports
 None of the parts require supports, brim or raft. Depending on your 3D printer, however, you might want to add some brim to the smaller parts, to increase adhesion to the build plate.
+
+# Post-processing
+Some parts are designed with an hole that is slightly smaller than the required one, since it would be impossible to achieve the perfect diameter while printing.  
+You'll have to re-drill the hole of the following parts:
+
+ - SEPARATOR DYNAMIC.stl (12 mm)
+ 
